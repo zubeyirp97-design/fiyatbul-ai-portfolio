@@ -13,7 +13,6 @@ Market Focus: Designed specifically for the Turkish second-hand market, with pri
 
 Live Demo: https://fiyatbulai.com.tr
 
-Screenshots
 
 Home Page
 
