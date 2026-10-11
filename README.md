@@ -19,3 +19,21 @@ Proje Hakkında
 FiyatBul AI, yapay zekâ entegrasyonlarını ve web geliştirmeyi gerçek bir kullanıcı ihtiyacına yönelik bir üründe bir araya getiren bağımsız bir projedir.
 
 Geliştirme odağı: Yapay zekâ uygulamaları, web tabanlı araçlar ve kullanıcı odaklı yazılım çözümleri.
+
+Ekran Görüntüleri
+
+Ana Sayfa
+
+"FiyatBul AI - Ana Sayfa" (Screenshot_20261011-144232%20(1).png)
+
+Fiyat Analizi
+
+"FiyatBul AI - Fiyat Analizi" (Screenshot_20261011-144733%20(1).png)
+
+Yapay Zekâ Asistanı
+
+"FiyatBul AI - Asistan" (Screenshot_20261011-144812%20(1).png)
+
+---
+
+🌐 Canlı Uygulama: https://fiyatbulai.com.tr
