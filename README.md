@@ -1,25 +1,21 @@
 FiyatBul AI
 
-AI-Powered Second-Hand Pricing & Listing Assistant
+Yapay Zekâ Destekli İkinci El Fiyat Analizi ve İlan Asistanı
 
-FiyatBul AI is a web application that helps people make smarter second-hand buying and selling decisions with AI-powered tools.
+FiyatBul AI, ikinci el alışveriş sürecini kolaylaştırmak için geliştirilmiş yapay zekâ destekli bir web uygulamasıdır. Kullanıcıların ürün fiyatlarını değerlendirmesine, ilan metinleri oluşturmasına ve pazarlık süreçlerini yönetmesine yardımcı olur.
 
-🌐 Live Website: https://fiyatbulai.com.tr
+🌐 Canlı Uygulama: https://fiyatbulai.com.tr
 
-Features
+Özellikler
 
-- AI Price Estimation — Estimate product values using photos and product details.
-- Listing Generator — Create product descriptions and suggested selling prices.
-- Negotiation Assistant — Generate responses to price offers and negotiations.
-- Buyer Assistant — Evaluate second-hand listings and identify potential risks.
-- Admin Analytics — Track application usage and activity.
+- Yapay Zekâ ile Fiyat Tahmini: Ürün fotoğrafları ve açıklamalarından hareketle tahmini fiyat aralığı oluşturma.
+- İlan Metni Oluşturma: Ürünler için açıklama ve satış ilanı hazırlama.
+- Pazarlık Asistanı: Fiyat tekliflerine ve pazarlıklara uygun yanıtlar oluşturma.
+- Alıcı Asistanı: İkinci el ilanlarını değerlendirmeye ve olası riskleri fark etmeye yardımcı olma.
+- Yönetim Paneli: Uygulama kullanımını ve etkinliklerini takip etme.
 
-Project Overview
+Proje Hakkında
 
-FiyatBul AI combines a web interface, backend services, and AI integrations into a practical tool for second-hand marketplaces.
+FiyatBul AI, yapay zekâ entegrasyonlarını ve web geliştirmeyi gerçek bir kullanıcı ihtiyacına yönelik bir üründe bir araya getiren bağımsız bir projedir.
 
-About the Project
-
-FiyatBul AI is an independent project focused on applying artificial intelligence to real-world marketplace problems.
-
-Developed as a practical exploration of AI-powered product development, web applications, and user-focused software solutions.
+Geliştirme odağı: Yapay zekâ uygulamaları, web tabanlı araçlar ve kullanıcı odaklı yazılım çözümleri.
