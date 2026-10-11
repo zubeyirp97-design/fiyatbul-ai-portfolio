@@ -11,8 +11,12 @@ PriceFinder AI helps users estimate second-hand item prices, generate listing de
 
 Live Demo: https://fiyatbulai.com.tr
 
-"Price Estimation" (./Screenshot_20261011-173643%20%281%29.png)
+Screenshots
 
-"AI Listing Assistant" (./Screenshot_20261011-173759%20%281%29.png)
+Price Estimation
 
-"AI Negotiation Assistant" (./Screenshot_20261011-174122%20%281%29.png)
+<img src="./Screenshot_20261011-173643%20(1).png" alt="Price Estimation" />AI Listing Assistant
+
+<img src="./Screenshot_20261011-173759%20(1).png" alt="AI Listing Assistant" />AI Negotiation Assistant
+
+<img src="./Screenshot_20261011-174122%20(1).png" alt="AI Negotiation Assistant" />
