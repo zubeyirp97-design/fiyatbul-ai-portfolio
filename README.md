@@ -9,6 +9,8 @@ PriceFinder AI helps users estimate second-hand item prices, generate listing de
 - Ready-to-use marketplace descriptions
 - AI-assisted negotiation responses
 
+Market Focus: Designed specifically for the Turkish second-hand market, with price estimates in Turkish Lira (TRY).
+
 Live Demo: https://fiyatbulai.com.tr
 
 Screenshots
