@@ -15,9 +15,9 @@ Live Demo: https://fiyatbulai.com.tr
 
 Screenshots
 
-Price Estimation
+Home Page
 
-<img src="./Screenshot_20261011-173643%20(1).png" alt="Price Estimation" />AI Listing Assistant
+<img src="./Screenshot_20261011-173643%20(1).png" alt="Price Estimation" />AI Price Analysis
 
 <img src="./Screenshot_20261011-173759%20(1).png" alt="AI Listing Assistant" />AI Negotiation Assistant
 
