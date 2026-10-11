@@ -22,18 +22,8 @@ Geliştirme odağı: Yapay zekâ uygulamaları, web tabanlı araçlar ve kullan�
 
 Ekran Görüntüleri
 
-Ana Sayfa
+"FiyatBul AI - Ana Sayfa" (./Screenshot_20261011-144232%20(1).png)
 
-"FiyatBul AI - Ana Sayfa" (Screenshot_20261011-144232%20(1).png)
+"FiyatBul AI - Fiyat Analizi" (./Screenshot_20261011-144733%20(1).png)
 
-Fiyat Analizi
-
-"FiyatBul AI - Fiyat Analizi" (Screenshot_20261011-144733%20(1).png)
-
-Yapay Zekâ Asistanı
-
-"FiyatBul AI - Asistan" (Screenshot_20261011-144812%20(1).png)
-
----
-
-🌐 Canlı Uygulama: https://fiyatbulai.com.tr
+"FiyatBul AI - Asistan" (./Screenshot_20261011-144812%20(1).png)
