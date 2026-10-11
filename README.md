@@ -26,3 +26,12 @@ Geliştirme odağı: Yapay zekâ uygulamaları, web tabanlı araçlar ve kullan�
 ![FiyatBul AI - Fiyat Analizi](./Screenshot_20261011-144733%20(1).png)
 
 ![FiyatBul AI - Asistan](./Screenshot_20261011-144812%20(1).png)
+
+
+Teknik Örnek
+
+Yapay zekâ entegrasyonu ve yapılandırılmış JSON yanıtlarının işlenmesi üzerine hazırlanmış örnek Python kodu:
+
+"AI JSON Integration Example" (./examples/ai_json_example.py)
+
+«Not: Bu dosya, teknik becerileri göstermek amacıyla hazırlanmış bağımsız bir örnektir. FiyatBul AI'ın gerçek kaynak kodunun birebir kopyası değildir; özgün promptları, fiyatlandırma kurallarını veya özel iş mantığını içermez.»
